@@ -1,7 +1,19 @@
+using Microsoft.EntityFrameworkCore;
+using TWnTW_MVC.Data;
+using TWnTW_MVC.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var mongoDbSetting = builder.Configuration.GetSection("MongoDbSettings").Get<MongoDbSetting>();
+builder.Services.Configure<MongoDbSetting>(builder.Configuration.GetSection("MongoDbSettings"));
+
+builder.Services.AddDbContext<MongoDbContext>(opitons =>
+{
+    opitons.UseMongoDB(mongoDbSetting.AtlasUri ?? "", mongoDbSetting.DatabaseName ?? "");
+});
 
 var app = builder.Build();
 
