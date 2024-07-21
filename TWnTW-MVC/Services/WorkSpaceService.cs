@@ -44,12 +44,21 @@ namespace TWnTW_MVC.Services
 
         public List<WorkSpace> GetAllWorkSpaces(ObjectId userId)
         {
-            throw new NotImplementedException();
+            var workSpace  = (from ws in _context.WorkSpaces
+                              join md in _context.MemberDetails on ws.WSId equals md.WSId
+                              where md.UserId == userId
+                              select ws).ToList();
+
+            return workSpace;
         }
 
-        public List<WorkSpace> SearchWorkSpaces(string SearchTerm)
+        public List<WorkSpace> SearchWorkSpaces(string searchTerm)
         {
-            throw new NotImplementedException();
+            var workSpaces = _context.WorkSpaces
+            .Where(ws => ws.WSName.Contains(searchTerm) || ws.Description.Contains(searchTerm))
+            .ToList();
+
+            return workSpaces;
         }
 
         public WorkSpace UpdateWorkSpace(ObjectId workSpaceId, WorkSpace workSpace)
