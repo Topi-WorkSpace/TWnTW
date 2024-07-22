@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using TWnTW_MVC.Data;
 using TWnTW_MVC.Models;
+using TWnTW_MVC.Services;
+using TWnTW_MVC.Services.IServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +11,8 @@ builder.Services.AddControllersWithViews();
 
 var mongoDbSetting = builder.Configuration.GetSection("MongoDbSettings").Get<MongoDbSetting>();
 builder.Services.Configure<MongoDbSetting>(builder.Configuration.GetSection("MongoDbSettings"));
-
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddSession(options => { options.IdleTimeout = TimeSpan.FromMinutes(30); });
 builder.Services.AddDbContext<MongoDbContext>(opitons =>
 {
     opitons.UseMongoDB(mongoDbSetting.AtlasUri ?? "", mongoDbSetting.DatabaseName ?? "");
@@ -27,7 +30,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+app.UseSession();
 app.UseRouting();
 
 app.UseAuthorization();
@@ -35,5 +38,4 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
 app.Run();
