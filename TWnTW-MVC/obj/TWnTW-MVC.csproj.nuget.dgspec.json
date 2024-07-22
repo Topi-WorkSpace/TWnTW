@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj": {}
+    "D:\\TWnTW\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj": {}
   },
   "projects": {
-    "D:\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj": {
+    "D:\\TWnTW\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
+        "projectUniqueName": "D:\\TWnTW\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
         "projectName": "TWnTW-MVC",
-        "projectPath": "D:\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
+        "projectPath": "D:\\TWnTW\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
         "packagesPath": "C:\\Users\\Phan Ky\\.nuget\\packages\\",
-        "outputPath": "D:\\TWnTW\\TWnTW-MVC\\obj\\",
+        "outputPath": "D:\\TWnTW\\TWnTW\\TWnTW-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Phan Ky\\AppData\\Roaming\\NuGet\\NuGet.Config",

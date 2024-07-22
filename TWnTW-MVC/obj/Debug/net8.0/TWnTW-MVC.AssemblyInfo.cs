@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TWnTW-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45d612393eb4be81ef660b8af5e92bf17febd52a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+638558e5b6563f37035099150c59219764f3842d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TWnTW-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TWnTW-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

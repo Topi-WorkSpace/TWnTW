@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OyreJzxHnVA=",
+  "dgSpecHash": "qQ7ibzv48YI=",
   "success": true,
-  "projectFilePath": "D:\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
+  "projectFilePath": "D:\\TWnTW\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phan Ky\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Phan Ky\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
