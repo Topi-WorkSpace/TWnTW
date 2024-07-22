@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PDP201_KSDN_K6\\TWnTW\\",
+  "WorkspaceRootPath": "D:\\TWnTW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\pdp201_ksdn_k6\\twntw\\twntw-mvc\\services\\workspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\twntw\\twntw-mvc\\services\\workspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|solutionrelative:twntw-mvc\\services\\workspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\pdp201_ksdn_k6\\twntw\\twntw-mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\twntw\\twntw-mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|solutionrelative:twntw-mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\pdp201_ksdn_k6\\twntw\\twntw-mvc\\models\\taskdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\twntw\\twntw-mvc\\models\\taskdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|solutionrelative:twntw-mvc\\models\\taskdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\pdp201_ksdn_k6\\twntw\\twntw-mvc\\models\\mongodbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\twntw\\twntw-mvc\\models\\mongodbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|solutionrelative:twntw-mvc\\models\\mongodbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\pdp201_ksdn_k6\\twntw\\twntw-mvc\\models\\memberdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\twntw\\twntw-mvc\\models\\memberdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|solutionrelative:twntw-mvc\\models\\memberdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\pdp201_ksdn_k6\\twntw\\twntw-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\twntw\\twntw-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|solutionrelative:twntw-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\pdp201_ksdn_k6\\twntw\\twntw-mvc\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\twntw\\twntw-mvc\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|solutionrelative:twntw-mvc\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\pdp201_ksdn_k6\\twntw\\twntw-mvc\\services\\iservices\\iworkspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|d:\\twntw\\twntw-mvc\\services\\iservices\\iworkspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01331F5-C400-4BC1-BB9F-484FDE0EEBD6}|TWnTW-MVC\\TWnTW-MVC.csproj|solutionrelative:twntw-mvc\\services\\iservices\\iworkspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,115 +42,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Models\\User.cs",
+              "DocumentMoniker": "D:\\TWnTW\\TWnTW-MVC\\Models\\User.cs",
               "RelativeDocumentMoniker": "TWnTW-MVC\\Models\\User.cs",
-              "ToolTip": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Models\\User.cs",
+              "ToolTip": "D:\\TWnTW\\TWnTW-MVC\\Models\\User.cs",
               "RelativeToolTip": "TWnTW-MVC\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:01:03.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:01:03.621Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TaskDetail.cs",
-              "DocumentMoniker": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Models\\TaskDetail.cs",
+              "DocumentMoniker": "D:\\TWnTW\\TWnTW-MVC\\Models\\TaskDetail.cs",
               "RelativeDocumentMoniker": "TWnTW-MVC\\Models\\TaskDetail.cs",
-              "ToolTip": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Models\\TaskDetail.cs",
+              "ToolTip": "D:\\TWnTW\\TWnTW-MVC\\Models\\TaskDetail.cs",
               "RelativeToolTip": "TWnTW-MVC\\Models\\TaskDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:00:47.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:00:47.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MongoDbSetting.cs",
-              "DocumentMoniker": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Models\\MongoDbSetting.cs",
+              "DocumentMoniker": "D:\\TWnTW\\TWnTW-MVC\\Models\\MongoDbSetting.cs",
               "RelativeDocumentMoniker": "TWnTW-MVC\\Models\\MongoDbSetting.cs",
-              "ToolTip": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Models\\MongoDbSetting.cs",
+              "ToolTip": "D:\\TWnTW\\TWnTW-MVC\\Models\\MongoDbSetting.cs",
               "RelativeToolTip": "TWnTW-MVC\\Models\\MongoDbSetting.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:00:41.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:00:41.407Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MemberDetail.cs",
-              "DocumentMoniker": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Models\\MemberDetail.cs",
+              "DocumentMoniker": "D:\\TWnTW\\TWnTW-MVC\\Models\\MemberDetail.cs",
               "RelativeDocumentMoniker": "TWnTW-MVC\\Models\\MemberDetail.cs",
-              "ToolTip": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Models\\MemberDetail.cs",
+              "ToolTip": "D:\\TWnTW\\TWnTW-MVC\\Models\\MemberDetail.cs",
               "RelativeToolTip": "TWnTW-MVC\\Models\\MemberDetail.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:00:24.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:00:24.68Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Program.cs",
+              "DocumentMoniker": "D:\\TWnTW\\TWnTW-MVC\\Program.cs",
               "RelativeDocumentMoniker": "TWnTW-MVC\\Program.cs",
-              "ToolTip": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Program.cs",
+              "ToolTip": "D:\\TWnTW\\TWnTW-MVC\\Program.cs",
               "RelativeToolTip": "TWnTW-MVC\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:57:16.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T14:57:16.295Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MongoDbContext.cs",
-              "DocumentMoniker": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Data\\MongoDbContext.cs",
+              "DocumentMoniker": "D:\\TWnTW\\TWnTW-MVC\\Data\\MongoDbContext.cs",
               "RelativeDocumentMoniker": "TWnTW-MVC\\Data\\MongoDbContext.cs",
-              "ToolTip": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Data\\MongoDbContext.cs",
+              "ToolTip": "D:\\TWnTW\\TWnTW-MVC\\Data\\MongoDbContext.cs",
               "RelativeToolTip": "TWnTW-MVC\\Data\\MongoDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:57:08.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T14:57:08.827Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WorkSpaceService.cs",
-              "DocumentMoniker": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Services\\WorkSpaceService.cs",
+              "DocumentMoniker": "D:\\TWnTW\\TWnTW-MVC\\Services\\WorkSpaceService.cs",
               "RelativeDocumentMoniker": "TWnTW-MVC\\Services\\WorkSpaceService.cs",
-              "ToolTip": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Services\\WorkSpaceService.cs",
+              "ToolTip": "D:\\TWnTW\\TWnTW-MVC\\Services\\WorkSpaceService.cs",
               "RelativeToolTip": "TWnTW-MVC\\Services\\WorkSpaceService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwDMAAAAwAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwDMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T14:48:42.445Z",
               "EditorCaption": ""
@@ -159,14 +137,13 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IWorkSpaceService.cs",
-              "DocumentMoniker": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Services\\IServices\\IWorkSpaceService.cs",
+              "DocumentMoniker": "D:\\TWnTW\\TWnTW-MVC\\Services\\IServices\\IWorkSpaceService.cs",
               "RelativeDocumentMoniker": "TWnTW-MVC\\Services\\IServices\\IWorkSpaceService.cs",
-              "ToolTip": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\Services\\IServices\\IWorkSpaceService.cs",
+              "ToolTip": "D:\\TWnTW\\TWnTW-MVC\\Services\\IServices\\IWorkSpaceService.cs",
               "RelativeToolTip": "TWnTW-MVC\\Services\\IServices\\IWorkSpaceService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:42:48.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T14:42:48.06Z"
             }
           ]
         }
