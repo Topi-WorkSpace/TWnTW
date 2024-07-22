@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj": {}
+    "D:\\Learn\\Linh tinh\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj": {}
   },
   "projects": {
-    "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj": {
+    "D:\\Learn\\Linh tinh\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
+        "projectUniqueName": "D:\\Learn\\Linh tinh\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
         "projectName": "TWnTW-MVC",
-        "projectPath": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PDP201_KSDN_K6\\TWnTW\\TWnTW-MVC\\obj\\",
+        "projectPath": "D:\\Learn\\Linh tinh\\TWnTW\\TWnTW-MVC\\TWnTW-MVC.csproj",
+        "packagesPath": "C:\\Users\\Topi\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Linh tinh\\TWnTW\\TWnTW-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Topi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,6 +66,10 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "MongoDB.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -90,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

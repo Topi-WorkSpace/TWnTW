@@ -1,9 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using TWnTW_MVC.Data;
 using TWnTW_MVC.Models;
+using TWnTW_MVC.Services;
+using TWnTW_MVC.Services.IServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<ITaskDetailServices,TaskDetailServices>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
